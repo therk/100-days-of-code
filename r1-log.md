@@ -5,5 +5,7 @@ The log of my #100DaysOfCode challenge. Started on October 27, Saturday, 2018.
 ## Log
 
 ### R1D1 
-Did a pybites PCC01 challenge and made a pull request for it https://github.com/pybites/challenges/pull/396. Also did some minor commits for freeCodeCamp as part of hacktoberfest.  
+Did the pybites PCC01 challenge. Also, did some minor commits for freeCodeCamp as part of hacktoberfest.  
 
+### R1D2 
+Did the pybites PCC02 challenge. It was a fun little python exercise to create a Scrabble game. 
