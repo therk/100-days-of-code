@@ -9,3 +9,6 @@ Did the pybites PCC01 challenge. Also, did some minor commits for freeCodeCamp a
 
 ### R1D2 
 Did the pybites PCC02 challenge. It was a fun little python exercise to create a Scrabble game. 
+
+### R1D3 
+Completed PCC03 - PyBites Blog Tag Analysis. Learned about difflib SequenceMatcher and collections Counter. 
