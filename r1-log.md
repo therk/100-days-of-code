@@ -12,3 +12,6 @@ Did the pybites PCC02 challenge. It was a fun little python exercise to create a
 
 ### R1D3 
 Completed PCC03 - PyBites Blog Tag Analysis. Learned about difflib SequenceMatcher and collections Counter. 
+
+### R1D4 
+Completed PCC04 - PyBites Twitter challenge. Played around with Tweepy and had fun setting up twitter developer API using the new process.
